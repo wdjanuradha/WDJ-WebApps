@@ -1,25 +1,40 @@
 {
-    "apps": [
-        {
-            "name": "Astrology Daily Predictions",
-            "description": "Get personalized daily predictions based on your ascendant.",
-            "link": "https://wdjanuradha.github.io/Astrology_Daily_Predictions/",
-            "image": "https://ideogram.ai/assets/image/lossless/response/539o0ROuRhqbQue-Zed0eQ",
-            "category": "Lifestyle"
-        },
-        {
-            "name": "WDJ Daily Motivational Quote",
-            "description": "Receive daily motivational quotes to keep you inspired.",
-            "link": "https://wdjanuradha.github.io/wdj-daily-motivational-quote/",
-            "image": "motivation.png",
-            "category": "Self-improvement"
-        },
-        {
-            "name": "Nurse Salary Calculator",
-            "description": "Calculate your salary and overtime as a nurse in Sri Lanka.",
-            "link": "https://wdjanuradha.github.io/nurse-salary-calculator/",
-            "image": "salary.png",
-            "category": "Finance"
-        }
-    ]
+  "apps": [
+    {
+      "name": "Astrology App",
+      "description": "Explore your daily horoscope and celestial insights.",
+      "link": "astrology.html",
+      "image": "AstrologyApp.webp"
+    },
+    {
+      "name": "Daily Quote",
+      "description": "Start your day with inspiration from our curated quotes.",
+      "link": "daily-quote.html",
+      "image": "DailyQuote.webp"
+    },
+    {
+      "name": "Nurse Calculator",
+      "description": "Essential calculations for nursing professionals.",
+      "link": "nurse-calculator.html",
+      "image": "NurseCal.webp"
+    },
+    {
+      "name": "Weather Forecast",
+      "description": "Get accurate weather predictions for your location.",
+      "link": "weather.html",
+      "image": "images/weather-icon.png"
+    },
+    {
+      "name": "Task Manager",
+      "description": "Organize your daily tasks and boost productivity.",
+      "link": "task-manager.html",
+      "image": "images/task-manager-icon.png"
+    },
+    {
+      "name": "Currency Converter",
+      "description": "Real-time currency conversion for global travelers.",
+      "link": "currency-converter.html",
+      "image": "images/currency-icon.png"
+    }
+  ]
 }
