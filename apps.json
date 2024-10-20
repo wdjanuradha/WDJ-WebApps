@@ -1,0 +1,25 @@
+{
+    "apps": [
+        {
+            "name": "Astrology Daily Predictions",
+            "description": "Get personalized daily predictions based on your ascendant.",
+            "link": "https://wdjanuradha.github.io/Astrology_Daily_Predictions/",
+            "image": "astrology.png",
+            "category": "Lifestyle"
+        },
+        {
+            "name": "WDJ Daily Motivational Quote",
+            "description": "Receive daily motivational quotes to keep you inspired.",
+            "link": "https://wdjanuradha.github.io/wdj-daily-motivational-quote/",
+            "image": "motivation.png",
+            "category": "Self-improvement"
+        },
+        {
+            "name": "Nurse Salary Calculator",
+            "description": "Calculate your salary and overtime as a nurse in Sri Lanka.",
+            "link": "https://wdjanuradha.github.io/nurse-salary-calculator/",
+            "image": "salary.png",
+            "category": "Finance"
+        }
+    ]
+}
