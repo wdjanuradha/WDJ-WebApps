@@ -10,7 +10,7 @@
       "name": "Daily Quote",
       "description": "Start your day with inspiration from our curated quotes.",
       "link": "daily-quote.html",
-      "image": "DailyQutoe.webp"
+      "image": "https://raw.githubusercontent.com/wdjanuradha/WDJ-WebApps/refs/heads/main/DailyQutoe.webp"
     },
     {
       "name": "Nurse Calculator",
