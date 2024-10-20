@@ -36,26 +36,18 @@ function renderApps(apps, containerSelector) {
     }
     appGrid.innerHTML = '';
 
-    const appImages = {
-        'Astrology App': 'AstrologyApp.webp',
-        'Daily Quote': 'DailyQuote.webp',
-        'Nurse Calculator': 'NurseCal.webp'
-    };
-
     apps.forEach(app => {
-        const appCard = createAppCard(app, appImages[app.name]);
+        const appCard = createAppCard(app);
         appGrid.appendChild(appCard);
     });
 }
 
-function createAppCard(app, imageName) {
+function createAppCard(app) {
     const card = document.createElement('div');
     card.className = 'app-card';
 
-    const imageUrl = imageName ? `images/${imageName}` : app.image;
-
     card.innerHTML = `
-        <img src="${imageUrl}" alt="${app.name}" style="width: 100%; height: 200px; object-fit: cover;">
+        <img src="${app.image}" alt="${app.name}" style="width: 100%; height: 200px; object-fit: cover;">
         <div class="app-card-content">
             <h3>${app.name}</h3>
             <p>${app.description}</p>
