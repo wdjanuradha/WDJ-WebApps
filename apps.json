@@ -3,38 +3,38 @@
     {
       "name": "Astrology App",
       "description": "Explore your daily horoscope and celestial insights.",
-      "link": "astrology.html",
+      "link": "https://wdjanuradha.github.io/Astrology_Daily_Predictions/",
       "image": "AstrologyApp.webp"
     },
     {
       "name": "Daily Quote",
       "description": "Start your day with inspiration from our curated quotes.",
-      "link": "daily-quote.html",
+      "link": "https://wdjanuradha.github.io/wdj-daily-motivational-quote/",
       "image": "https://raw.githubusercontent.com/wdjanuradha/WDJ-WebApps/refs/heads/main/DailyQutoe.webp"
     },
     {
       "name": "Nurse Calculator",
       "description": "Essential calculations for nursing professionals.",
-      "link": "nurse-calculator.html",
+      "link": "https://wdjanuradha.github.io/nurse-salary-calculator/",
       "image": "NurseCal.webp"
     },
     {
       "name": "Weather Forecast",
       "description": "Get accurate weather predictions for your location.",
       "link": "weather.html",
-      "image": "images/weather-icon.png"
+      "image": "https://www.dailynews.lk/wp-content/uploads/2023/12/weather-report.png"
     },
     {
       "name": "Task Manager",
       "description": "Organize your daily tasks and boost productivity.",
       "link": "task-manager.html",
-      "image": "images/task-manager-icon.png"
+      "image": "https://d107mjio2rjf74.cloudfront.net/sites/res/home/common/header.png"
     },
     {
       "name": "Currency Converter",
       "description": "Real-time currency conversion for global travelers.",
       "link": "https://wdjanuradha.github.io/currency-converter/",
-      "image": "images/currency-icon.png"
+      "image": "https://ashutosh.dev/content/images/size/w692/2022/02/CurrencyConverter.png"
     }
   ]
 }
