@@ -35,6 +35,12 @@
       "description": "Real-time currency conversion for global travelers.",
       "link": "https://wdjanuradha.github.io/currency-converter/",
       "image": "https://ashutosh.dev/content/images/size/w692/2022/02/CurrencyConverter.png"
+    },
+    {
+      "name": "Age Calculator",
+      "description": "Age Calculator is a sleek and modern web app designed to calculate your exact age in various units years, months, days, hours, minutes, and even seconds.",
+      "link": "https://wdjanuradha.github.io/Age_Calculator/",
+      "image": "https://ideogram.ai/assets/image/lossless/response/3eC8dsePSPGbuIWPLiA1ag"
     }
   ]
 }
